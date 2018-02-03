@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net47</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <PackageId>GetAssemblyVersion</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>ymsafeq</Authors>
+    <Company>ymsafeq</Company>
+    <Product>AsmTools</Product>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
